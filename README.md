@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **Machine Learning & AI**
 
-- 👨‍💻 Portfolio: [Website](https://bento.me/vamsi-bandaru)
+- 👨‍💻 Portfolio: [Website](https://www.datascienceportfol.io/vamsibandaru)
 
 - 📫 How to reach me: [Email](vamsibandaru360@gmail.com)
 
