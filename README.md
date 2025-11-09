@@ -20,7 +20,7 @@
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/19a31a05a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="19a31a05a5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pranav222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranav222" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/itspsv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranav222" height="30" width="40" /></a>
 
   
 </p>
