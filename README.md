@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vamsi Bandaru</h1>
 <h3 align="center">
-Analytics & Data Engineer | Building Scalable Data Pipelines, Warehouses & Insights
+Data Engineer & Analytics Professional | Building Scalable Data Pipelines, Warehouses & Insights
 </h3>
 
 <p align="left"> 
