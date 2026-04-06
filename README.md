@@ -1,17 +1,61 @@
 <h1 align="center">Hi 👋, I'm Vamsi Bandaru</h1>
-<h3 align="center">A passionate Data Science student with expertise in Python, SQL, and data visualization, committed to leveraging analytical skills to derive actionable insights and solve complex problems.</h3>
+<h3 align="center">
+Analytics & Data Engineer | Building Scalable Data Pipelines, Warehouses & Insights
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itspsv&label=Profile%20views&color=0e75b6&style=flat" alt="itspsv" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=itspsv&label=Profile%20views&color=0e75b6&style=flat" alt="itspsv" /> 
+</p>
 
-- 🔭 I’m currently working on: **Data Analysis and Big Data projects.**
+---
 
-- 🌱 I’m currently learning: **Machine Learning & AI**
+### 🚀 About Me
+- 🎓 Master’s student in Germany, focused on Data Engineering & Analytics  
+- 🔧 I build **end-to-end data pipelines, ELT workflows, and data warehouses**  
+- 📊 I turn raw data into **actionable insights using dashboards and analysis**  
+- ⚡ Passionate about solving real-world problems with **scalable data systems**
 
-- 👨‍💻 Portfolio: [Website](https://www.datascienceportfol.io/vamsibandaru)
+---
 
-- 📫 How to reach me: [Email](vamsibandaru360@gmail.com)
+### 💼 What I’m Working On
+- 🔭 Building **data engineering projects (ETL pipelines, warehouse models)**  
+- 📊 Developing **analytics dashboards & KPI reporting systems**  
 
-- 🎤 Fun fact: **I organized and hosted multiple public events.**
+---
+
+### 🌱 Currently Learning
+- ⚙️ Advanced **Data Engineering (Spark, orchestration, optimization)**  
+- ☁️ Cloud Data Platforms (**AWS, GCP**)  
+- 🤖 Applied **Machine Learning for data-driven systems**  
+
+---
+
+### 🛠️ Tech Stack
+
+**Data Engineering:**  
+Python, PySpark, SQL, Snowflake, dbt, Prefect, AWS (S3, EC2, IAM)
+
+**Data Analysis & BI:**  
+Pandas, NumPy, Tableau, Power BI, Excel
+
+**Cloud & Databases:**  
+AWS, GCP (BigQuery), PostgreSQL, MySQL
+
+---
+
+### 📂 Portfolio
+- 👨‍💻 Check out my projects:  
+👉 https://www.datascienceportfol.io/vamsibandaru
+
+---
+
+### 📫 Contact Me
+- 📧 Email: vamsibandaru360@gmail.com  
+
+---
+
+### ⚡ Fun Fact
+- 🎤 I’ve organized and hosted multiple public events, improving my communication & leadership skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
